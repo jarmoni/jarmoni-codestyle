@@ -29,8 +29,8 @@
 	</licenses>
 
 	<scm>
-		<connection>git@github.com:micha-s/${project.artifactId}.git</connection>
-		<developerConnection>git@github.com:micha-s/${project.artifactId}.git</developerConnection>
+		<connection>scm:git@github.com:micha-s/${project.artifactId}.git</connection>
+		<developerConnection>scm:git@github.com:micha-s/${project.artifactId}.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
