@@ -44,6 +44,10 @@
 		</repository>
 	</distributionManagement>
 
+	<prerequisites>
+		<maven>3</maven>
+	</prerequisites>
+	
 	<properties>
 		<!-- general properties -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
