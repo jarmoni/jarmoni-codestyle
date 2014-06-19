@@ -35,12 +35,12 @@
 
 	<distributionManagement>
 		<snapshotRepository>
-			<id>ossrh</id>
-			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+			<id>cloudbees</id>
+			<url>https://repository-jarmoni.forge.cloudbees.com/snapshot/</url>
 		</snapshotRepository>
 		<repository>
-			<id>ossrh</id>
-			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+			<id>cloudbees</id>
+			<url>https://repository-jarmoni.forge.cloudbees.com/release/</url>
 		</repository>
 	</distributionManagement>
 
