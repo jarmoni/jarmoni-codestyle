@@ -14,7 +14,7 @@
 	<developers>
 		<developer>
 			<name>Michael Sorg</name>
-			<email>micha-s@jarmoni.org</email>
+			<email>michas@jarmoni.org</email>
 		</developer>
 	</developers>
 
@@ -28,8 +28,8 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git@github.com:micha-s/${project.artifactId}.git</connection>
-		<developerConnection>scm:git@github.com:micha-s/${project.artifactId}.git</developerConnection>
+		<connection>scm:git@github.com:jarmoni/${project.artifactId}.git</connection>
+		<developerConnection>scm:git@github.com:jarmoni/${project.artifactId}.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
