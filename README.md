@@ -1,0 +1,1 @@
+# jarmoni-codestyle [![Build Status](https://travis-ci.org/jarmoni/jarmoni-codestyle.svg?branch=master)](https://travis-ci.org/jarmoni/jarmoni-codestyle)
